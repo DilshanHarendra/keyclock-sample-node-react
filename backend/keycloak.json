@@ -1,0 +1,7 @@
+{
+  "clientId": "fashion_public_app",
+  "bearerOnly": true,
+  "serverUrl": "http://localhost:8080/auth/",
+  "realm": "fashion-store-realm",
+  "realmPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsd7Kvk8Psgxl9qS2z1CJo5LpBeri6wU9Mt0KZjhEk4VGP4cl6bNgZbCuec0iumxRv7tDPtbEgRzARQ1Fp3im3jMUkYFt6hJwVN/MxI1Mp+ZyOvJdeg1QPBSFR/u34mZSxHXshFgfibaFrBP/olo+Q7df1KcBXkcOKNduFIL6cnGOZvmDFD++1cCoptnqvd978bq7eHQf+hkV3P3Bzygqbr6SmwWO0F2sQ9tlisMcaS8Kui/hKmIzsJ3Q7PfReDB2wEYbHaBlBcwWa0bGWeI0yt6nDEYFrmikwjGJNaH59/zgMLzBHOSUO+I6d5gjXjCPs2e4v6wYj2xgpIT3hAsw0QIDAQAB"
+}
