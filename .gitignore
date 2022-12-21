@@ -1,0 +1,5 @@
+/keyclock-public-client/node_modules/
+/keyclock-public-client/.idea/
+.idea
+/backend/node_modules/
+/keyclock-public-client/.env

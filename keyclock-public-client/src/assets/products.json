@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Casual Party fork with hat",
+    "image": "https://images.unsplash.com/photo-1622090567079-343116452be0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGZhc2hpb24lMjBnaXJsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "price": "160",
+    "category": "Woman"
+  },
+  {
+    "title": "Pink winter dress ",
+    "image": "https://images.unsplash.com/photo-1621786030484-4c855eed6974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGZhc2hpb24lMjBnaXJsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "price": "160",
+    "category": "Woman"
+  },
+  {
+    "title": "Black woman office dress",
+    "image": "https://images.unsplash.com/photo-1586078130702-d208859b6223?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGZhc2hpb24lMjBnaXJsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "price": "160",
+    "category": "Woman"
+  },
+  {
+    "title": "Woman denim with back T-shirt",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGZhc2hpb24lMjBnaXJsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "price": "189",
+    "category": "Woman"
+  },
+  {
+    "title": "Black woman  dress with sunglasses",
+    "image": "https://images.unsplash.com/photo-1562572159-4efc207f5aff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGZhc2hpb24lMjBnaXJsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "price": "126",
+    "category": "Woman"
+  },
+  {
+    "title": "Casual Men Brown Shirt",
+    "image": " https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "price": "190",
+    "category": "Men"
+  },
+  {
+    "title": "Formal Men Blue Shirt",
+    "image": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZhc2hpb24lMjBtZW58ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+    "price": "160",
+    "category": "Men"
+  },
+  {
+    "title": "Amazing Smart Watch",
+    "image": "https://source.unsplash.com/2cFZ_FB08UM/600x600",
+    "price": "280",
+    "category": "Watch"
+  },
+  {
+    "title": "Modern Shoes",
+    "image": "https://source.unsplash.com/KStSiM1UvPw/600x600",
+    "price": "65",
+    "category": "Shoes"
+  },
+  {
+    "title": "Cool Sunglasses",
+    "image": "https://source.unsplash.com/K62u25Jk6vo/600x600",
+    "price": "92",
+    "category": "Sunglasses"
+  },
+  {
+    "title": "Sneakers",
+    "image": "https://source.unsplash.com/LxVxPA1LOVM/600x600",
+    "price": "43",
+    "category": "Shoes"
+  },
+  {
+    "title": "Bluetooth headphones",
+    "image": "https://source.unsplash.com/NuOGFo4PudE/600x600",
+    "price": "160",
+    "category": "Headphones"
+  }
+
+]
