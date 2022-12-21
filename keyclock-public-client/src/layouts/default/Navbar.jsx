@@ -41,18 +41,25 @@ const Navbar = () => {
                   <NavLink to="/"  className="hover:text-gray-400 px-4">
                       <span>About</span>
                   </NavLink>
+
                   {
-                      !isUserAuthenticated&&<>
-                          <NavLink to="/"  className="hover:text-gray-400 px-4">
-                              <span>Track my order</span>
-                          </NavLink>
-                          <NavLink to="/product/new"  className="hover:text-gray-400 px-4">
-                              <span>Create Product</span>
-                          </NavLink>
+                      isUserAuthenticated?
+                         <>
+                             <NavLink to="/"  className="hover:text-gray-400 px-4">
+                                 <span>Track my order</span>
+                             </NavLink>
+                             <NavLink to="/product/new"  className="hover:text-gray-400 px-4">
+                                 <span>Create Product</span>
+                             </NavLink>
+                         </>
+                      :
+                          <>
+
                           <button onClick={handleLogin} type="button"  className="hover:text-gray-400 px-4 uppercase">
                               <span>Sign in</span>
                           </button>
                       </>
+
                   }
               </div>
             </nav>
